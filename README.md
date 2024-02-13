@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello 👋
+🌱 About Me
+🔧 Technologies & Tools
+🚀 Projects
+📫 Contact Me
+Thank you for visiting! 😊
 <!--
 **NursCh/NursCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
