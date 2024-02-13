@@ -1,9 +1,13 @@
 ### Hello 👋
-🌱 About Me
-🔧 Technologies & Tools
-🚀 Projects
-📫 Contact Me
-Thank you for visiting! 😊
+###🌱 About Me
+Nazarbayev University student. Bsc in Computer Science 3rd Year.
+###🔧 Technologies & Tools
+C, C#, C++
+###📫 Contact Me
+###Email: nursultan.chokushev@gmail.com
+###Telegram: @exXzic
+###Linkedin: https://www.linkedin.com/in/nursultan-chokushev-a0237324b/
+###Thank you for visiting! 😊
 <!--
 **NursCh/NursCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
