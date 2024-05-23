@@ -2,7 +2,7 @@
 ### 🌱 About Me
 Nazarbayev University student. Bsc in Computer Science 3rd Year.
 ### 🔧 Technologies & Tools
-C, C#, C++
+C, C#, C++, Go
 ### 📫 Contact Me
 ### Email: nursultan.chokushev@gmail.com
 ### Telegram: @exXzic
