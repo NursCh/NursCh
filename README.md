@@ -6,7 +6,7 @@ C, C#, C++, Go
 ### 📫 Contact Me
 ### Email: nursultan.chokushev@gmail.com
 ### Telegram: @exXzic
-### Linkedin: https://www.linkedin.com/in/nursultan-chokushev/
+### Linkedin: https://www.linkedin.com/in/nursultanchokushev/
 ### Thank you for visiting! 😊
 <!--
 **NursCh/NursCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
