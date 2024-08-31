@@ -1,6 +1,6 @@
 ### Hello 👋
 ### 🌱 About Me
-Nazarbayev University student. Bsc in Computer Science 3rd Year.
+Nazarbayev University student. Bsc in Computer Science 4th Year.
 ### 🔧 Technologies & Tools
 C, C#, C++, Go
 ### 📫 Contact Me
